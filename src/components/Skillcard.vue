@@ -37,29 +37,35 @@ export default {
 	data: () => ({
 		messages: [
 			{
+				from: "Irorun App",
+				message: "https://friendly-hopper-4a173d.netlify.app/",
+				color: "blue lighten-1",
+			},
+			{
+				from: " Apoti Ajo",
+				message: `https://jolly-stonebraker-a6a3ae.netlify.app/`,
+				color: "blue lighten-1",
+			},
+			{
 				from: " Run Tracker",
 				message: `https://rippyblogger.github.io/RunTrackApp/`,
-				time: "MAY 2020 – OCT 2020",
 				color: "blue lighten-1",
 			},
 			{
 				from: "Email Marketing Website Landing page",
-				message: "https://rippyblogger.github.io/RunTrackApp/",
-				time: "JULY 2018 – MAY 2020",
+				message: "https://rippyblogger.github.io/Deliver/",
 				color: "green",
+			},
+			{
+				from: "URL Shortner",
+				message: "https://thirsty-fermat-a029ad.netlify.app/",
 			},
 			{
 				from: "IP Tracker",
 				message: "https://rippyblogger.github.io/Ip-Tracker/",
-				time: "DECEMBER 2016 – MAY 2017",
 				color: "blue lighten-1",
 			},
-			{
-				from: "Irorun App",
-				message: "https://friendly-hopper-4a173d.netlify.app/r",
-				time: "AUGUST 2015 – JANUARY 2016",
-				color: "blue lighten-1",
-			},
+			
 		],
 	}),
 };

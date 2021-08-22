@@ -25,7 +25,7 @@
     <v-main>
       <HelloWorld/>
       <Jobcard/>
-      <Skillcard class="spaceme"/>>
+      <Skillcard class="spaceme"/>
     </v-main>
   </v-app>
 </template>
@@ -42,7 +42,6 @@ export default {
     HelloWorld,
     Jobcard,
     Skillcard,
-    
   },
 
   data: () => ({
